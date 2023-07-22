@@ -8,7 +8,7 @@
 - 📚 I'm currently learning how to cook and studying Deep Learning.
 - 🎯 Goals: Writing a book on coding.
 - 🏄 Fun fact: I study philosophy a lot :p
-- 🍪 Side Hustle: Technical blog writer on Medium
+- 🍪 Side Hustle: Technical blog writer on the [medium.com](https://medium.com/@smalam119)
 
 ## Some stats
 
