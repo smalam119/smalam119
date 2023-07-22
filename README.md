@@ -4,10 +4,10 @@
 
 ## About me
 
-- ✨ Creating iOS apps since 2016 using Swift
-- 📚 I'm currently learning Deep Learning
-- 🎯 Goals: Write a book
-- 🏄 Fun fact: Let's talk about life and philosophy 
+- ✨ Creating iOS apps since 2016 using Swift.
+- 📚 I'm currently learning how to cook and studying Deep Learning.
+- 🎯 Goals: Writing a book on coding.
+- 🏄 Fun fact: I study philosophy a lot :p
 - 🍪 Side Hustle: Technical blog writer on Medium
 
 ## Some stats
